@@ -1,6 +1,6 @@
 # Canutors Motors – Plataforma SaaS para Concessionárias de Baixa Estrutura
 
-`Análise e Desenvolvimento de Sistemas`  
+`Sistemas de Informação`  
 `Trabalho Interdisciplinar: Aplicações para Processos de Negócios`  
 `2° semestre`
 
