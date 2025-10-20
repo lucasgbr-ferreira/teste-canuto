@@ -46,7 +46,7 @@ Atualizado em: 21/04/2024
 
 | Responsável | Tarefa/Requisito | Iniciado em | Prazo | Status | Terminado em |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| AlunaX | Home-Page | 01/02/2024 | 07/03/2024 | ✔️ | 05/01/2005 |
+| AlunaX | Home-Page | 01/02/2024 | 07/03/2024 | ✔️ | 05/01/2025 |
 | AlunaZ | CSS Unificado | 03/02/2024 | 10/03/2024 | 📝 | |
 | AlunoY | Página de login | 01/02/2024 | 07/03/2024 | ⌛ | |
 | AlunoK | Script de login | 01/01/2024 | 12/03/2024 | ❌ | |
@@ -57,10 +57,10 @@ Atualizado em: 19/10/2025
 
 | Responsável | Tarefa/Requisito | Iniciado em | Prazo | Status | Terminado em |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| João, Lucas | Confecção do banco + Modelagem (#8) | | | ✔️ | |
-| João, Gabriela C. | Confecção dos Wireframes (#9) | | | ✔️ | |
-| Guilherme, Pedro C. | Apresentação + Criação dos slides (#10) | | | ✔️ | |
-| João, Lucas | Documentação (#11) | | | ✔️ | |
+| João, Lucas | Confecção do banco + Modelagem (#8) |14/10/2025 | 20/10/2025| ✔️ |16/10/2025 |
+| João, Gabriela C. | Confecção dos Wireframes (#9) | |20/10/2025 | ✔️ | |
+| Guilherme, Pedro C. | Apresentação + Criação dos slides (#10) | |20/10/2025 | ✔️ | |
+| João, Lucas | Documentação (#11) |19/10/2025 |20/10/2025 | ✔️ |19/10/2025 |
 
 Legenda:
 - ✔️: terminado
