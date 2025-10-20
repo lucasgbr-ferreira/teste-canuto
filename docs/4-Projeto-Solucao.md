@@ -23,13 +23,11 @@ Abaixo estão os links para o protótipo navegável (fluxo de telas) e para o de
 
 O diagrama de classes abaixo ilustra a estrutura do software, detalhando as classes necessárias (como `Veiculo`, `Cliente`, `Venda`, `Funcionario`), seus atributos, métodos e os relacionamentos entre elas, servindo de base para a implementação do back-end.
 
-![Diagrama de Classes UML](CanutoMotorsUML.png)
+![Diagrama de classes UML](images/CanutoMotorsUML.png)
 
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
-
-*(Observação: Esta seção parece ser um cabeçalho introdutório no template. O diagrama específico é solicitado na seção 4.3.1 abaixo).*
 
 ### 4.3. Modelo de dados
 
@@ -39,13 +37,13 @@ O modelo de dados foi desenvolvido para suportar todos os processos da aplicaç�
 
 O Modelo Entidade-Relacionamento (Conceitual) abaixo demonstra as principais entidades do sistema e como elas se relacionam em alto nível.
 
-![Modelo Conceitual (DER)](CanutoMotors_ModeloConceitual.jpeg)
+![Modelo Entidade-Relacional (conceitual)](images/CanutoMotors_ModeloConceitual.jpeg)
 
 #### 4.3.2 Esquema Relacional
 
 O Esquema Relacional (Modelo Lógico) abaixo detalha o Modelo ER, traduzindo as entidades em tabelas, definindo os atributos com seus tipos, e especificando as chaves primárias (PK) e estrangeiras (FK) que implementam os relacionamentos.
 
-![Modelo Lógico (Relacional)](CanutoMotors_ModeloLogico.png)
+![Modelo Lógico (Relacional)](images/CanutoMotors_ModeloLogico.png)
 
 ---
 
@@ -157,7 +155,7 @@ CREATE TABLE REPARO (
     FOREIGN KEY (id_veiculo) REFERENCES VEICULO(id_veiculo),
     FOREIGN KEY (id_funcionario) REFERENCES FUNCIONARIO(id_funcionario)
 );
-
+```
 ## 4.4. Tecnologias
 
 A solução será implementada utilizing as seguintes tecnologias, conforme definido nas restrições do projeto:
